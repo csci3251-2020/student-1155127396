@@ -7,7 +7,7 @@ The **programing language** I have learned:
 * Java
 
 Things that I am **interested**
-- [X] Software engineering_(Especially **game making**)_
+- [X] Software engineering (Especially <i>**game making**</i>)
 - [X] Cyber security
 - [ ] Artificial Intelligence
 
@@ -26,7 +26,7 @@ Things that I am **interested**
 | Web client | You will be faced with problems that will require knowledge of web scripting language. |
 | Web server | Discover the mechanisms, protocols and technologies used on the Internet and learn to abuse it! |
 
-**The above information are from *https://www.root-me.org/* **
+<b>The above information are from *https://www.root-me.org/* </b>
 
 #<h4>Photo</h4>
 
