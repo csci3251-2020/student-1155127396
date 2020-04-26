@@ -29,5 +29,5 @@ Things that I am **interested**
 <b>The above information are from *https://www.root-me.org/* </b>
 
 <h4>Photo</h4>
-![](https://github.com/csci3251-2020/student-1155127396/blob/master/1155127396_milestone2.jpg)
+![image](https://github.com/csci3251-2020/student-1155127396/blob/master/1155127396_milestone2.jpg)
 
