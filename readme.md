@@ -1,6 +1,6 @@
-#<h1>Hello guys :)
+#<h1>Hello guys :)</h1>
 **Welcome to my GitHub!**
-#<h2>About me
+#<h2>About me</h2>
 The **programing language** I have learned:
 * C
 * Java
@@ -9,7 +9,7 @@ Things that I am **interested**:
 - [X] Cyber security
 - [ ] Artificial Intelligence
 
-#<h3>Something in cyber security
+#<h3>Something in cyber security</h3>
 
 Challenges | Description
 ------------------------
@@ -26,6 +26,6 @@ Web server | Discover the mechanisms, protocols and technologies used on the Int
 
 **The above information are from *https://www.root-me.org/* **
 
-#<h4>Photo
+#<h4>Photo</h4>
 
 
