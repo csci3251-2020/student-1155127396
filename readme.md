@@ -12,8 +12,8 @@ Things that I am **interested**
 <h3>Something in cyber security</h3>
 
 | Challenges | Description |
-------------------------
-| App-Script | Exploit environment weaknesses, configuration mistakes and vulnerability patterns in shell scripting and system hardening.|
+|------------|:-----------:|
+| App-Script | Exploit environment weaknesses, configuration mistakes and vulnerability patterns in shell scripting and system hardening. |
 | App-System | Understand applicative vulnerabilities. |
 | Cracking | Reverse binaries and crack executables. |
 | Cryptanalysis | Break encryption algorithms. |
