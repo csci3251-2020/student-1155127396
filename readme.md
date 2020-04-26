@@ -28,6 +28,6 @@ Things that I am **interested**
 
 <b>The above information are from *https://www.root-me.org/* </b>
 
-#<h4>Photo</h4>
-![](~/Desktop/photo.jpg)
+<h4>Photo</h4>
+![](/home/s1155127396/Desktop/photo.jpg)
 
